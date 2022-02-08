@@ -1,0 +1,8 @@
+@import "partials/variables";
+@import "partials/fonts";
+@import "partials/markup";
+
+body {
+  font-size: $rem;
+  font-family: $font-primary;
+}
